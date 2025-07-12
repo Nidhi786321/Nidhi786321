@@ -42,7 +42,7 @@ I am also deeply interested in academic teaching and mentoring students in mathe
 ### 📁 Fair Salary Prediction Model
 A machine learning project that predicts employee salaries based on historical data to reduce bias and manual judgments.  
 `Tools`: Python, Pandas, Scikit-learn, Matplotlib  
-[View Project Repo](https://github.com/nidhiyadav/salary-prediction)
+[View Project Repo]Machine Learning Project
 
 ### 📁 Degree Sequence Graph Checker (C++)
 Program to determine if a given degree sequence is graphical and print its adjacency matrix using constructive algorithm (Havel-Hakimi).  
