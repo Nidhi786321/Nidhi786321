@@ -54,9 +54,9 @@
   <h2 style="color:blue;">  Achievements / Certifications
 
 - Qualified  IIT JAM exam with rank - 484 for admission to MSc Mathematics at IIT Hyderabad (2024–2026)  
-- Completed Machine Learning course with hands-on project work (Python & scikit-learn)  
+- Completed Machine Learning course with hands-on project work (Python  )  
 - Secured top ranks in undergraduate mathematics courses  
 -  Find Young Scientist certificate  during school years  
 - Active contributor to academic and technical discussions on GitHub and Overleaf  
-- Certificate of  course complication of Machine Learning  by Launch Global.
+- Certificate of  course complication of Machine Learning  by Launch  Global.
  
