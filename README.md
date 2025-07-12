@@ -44,7 +44,7 @@
 
 ## Contact Information
 
-- Email: [nidhiyadav@email.com](mailto:nidhiyadav@email.com)
+- Email:  nidnirama98@gmail.com
 - LinkedIn: [linkedin.com/in/nidhiyadav](https://linkedin.com/in/nidhiyadav)
 - Resume: [View Resume](https://github.com/your-username/your-repo-name/blob/main/Resume.pdf)
 
