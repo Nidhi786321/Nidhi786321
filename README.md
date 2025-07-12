@@ -13,7 +13,7 @@
   - Indian Institute of Technology, Hyderabad  
   - Current CGPA: 6.03
 
-- BSc Mathematic 
+- BSc( Mathematic ,Physics,Chemistry)
   - Undergraduate College Name- Mahatama Gandhi P.G.College Gorakhpur
   - Percentage/CGPA: 63.64%
 
